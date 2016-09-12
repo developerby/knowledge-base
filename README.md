@@ -17,6 +17,8 @@
 
 ## GraphQL
 
+– https://medium.com/@clayallsopp
+
 ## Ruby
 
 ## MySQL
