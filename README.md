@@ -6,6 +6,9 @@
 
 ## React
 
+- http://redux.js.org/
+- https://facebook.github.io/flux/
+
 ## Relay
 
 - https://github.com/lvarayut/relay-fullstack
