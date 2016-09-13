@@ -3,6 +3,7 @@
 ## JS
 
 - http://largescalejs.ru/
+- http://requirejs.org/
 
 ## React
 
