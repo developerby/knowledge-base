@@ -17,13 +17,13 @@
 
 ## GraphQL
 
-– https://medium.com/@clayallsopp
+- https://medium.com/@clayallsopp
 
 ## Ruby
 
 ## MySQL
 
-– https://www.percona.com/
+- https://www.percona.com/
 
 ## PostgreSQL
 
