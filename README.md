@@ -4,6 +4,7 @@
 
 - http://largescalejs.ru/
 - http://requirejs.org/
+- https://flowtype.org/
 
 ## React
 
