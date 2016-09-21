@@ -5,6 +5,7 @@
 - http://largescalejs.ru/
 - http://requirejs.org/
 - https://flowtype.org/
+- https://github.com/creationix/nvm
 
 ## React
 
